@@ -1,4 +1,4 @@
-## 🛠️ Languages & Tools
+## 💻 My Technical Skills (MERN Stack Developer)
 
 <p align="left">
   <img src="./icons/0-html.png" width="50" />
