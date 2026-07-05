@@ -4,9 +4,11 @@
 
 I'm a MERN Stack-focused Web Developer passionate about building modern, responsive, and user-friendly web applications.
 
-I enjoy turning ideas into real web experiences through clean code, practical projects, and continuous learning.
+I use Linux 🐧 as my main development environment, and I enjoy turning ideas into real web experiences through clean code and practical projects.
 
-I'm always working on improving my skills, writing better code, and learning modern web development practices.
+I'm continuously improving my skills, writing better code, and learning modern web development practices.
+
+I'm also a JavaScript enthusiast who enjoys understanding how things work under the hood.
 
 <p align="left">
   <img src="./icons/0-html.png" width="50" />
