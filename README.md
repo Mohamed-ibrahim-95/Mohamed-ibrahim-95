@@ -23,4 +23,6 @@ I'm also a JavaScript enthusiast who enjoys understanding how things work under 
   <img src="./icons/9-NodeJS.png" width="50" />
   <img src="./icons/10-ExpressJS.png" width="50" />
   <img src="./icons/11-MongoDB.png" width="50" />
+  <img src="./icons/16-Linux.png" width="50" />
+  
 </p>
