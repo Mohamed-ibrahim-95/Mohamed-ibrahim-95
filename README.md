@@ -1,6 +1,6 @@
-## 💻 My Technical Skills (MERN Stack Developer)
-
 # Hi, I'm Mohamed Ibrahim 👋
+
+## 💻 My Technical Skills (MERN Stack Developer)
 
 I'm a MERN Stack-focused Web Developer passionate about building modern, responsive, and user-friendly web applications.
 
