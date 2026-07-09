@@ -37,7 +37,6 @@ I'm also a JavaScript enthusiast who enjoys understanding how things work under 
     <img src="https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <br><br>
-
   <a href="https://www.instagram.com/caesar__95/">
     <img src="https://img.shields.io/badge/Instagram-My%20Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
