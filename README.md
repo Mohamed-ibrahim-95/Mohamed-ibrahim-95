@@ -29,3 +29,15 @@ I'm also a JavaScript enthusiast who enjoys understanding how things work under 
   <img src="./icons/15-ClaudeAI.png" width="55" alt="Claude AI" />
   <img src="./icons/16-Linux.png" width="55" alt="Linux" />
 </p>
+
+## 📫 Connect with Me
+
+<p align="left">
+  <a href="mailto:mohamed.ibrahim.div1995@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+
+  <a href="https://www.instagram.com/caesar__95/">
+    <img src="https://img.shields.io/badge/Instagram-Follow%20Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
