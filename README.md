@@ -33,7 +33,7 @@ I'm also a JavaScript enthusiast who enjoys understanding how things work under 
 ## 📫 Connect with Me
 
 <p align="left">
-  <a href="mailto:mohamed.ibrahim.div1995@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mohamed.ibrahim.div1995@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 
